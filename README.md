@@ -14,7 +14,7 @@ composer install
 php artisan serve
 ```
 
-* Hit the browser with the following URLS.
+* Hit the browser with the following URLs.
 
 ```
 http://127.0.0.1:8000/home
