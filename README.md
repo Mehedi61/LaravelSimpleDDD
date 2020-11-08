@@ -7,6 +7,10 @@ git clone https://github.com/Mehedi61/LaravelSimpleDDD.git
 ```
 
 ```
+cd LaravelSimpleDDD/
+```
+
+```
 composer install
 ```
 
